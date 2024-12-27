@@ -1,0 +1,103 @@
+.inter-main-font{
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+h1{
+    margin: 0px 0px 25px 0px;
+    font-size: 24pt;
+    font-stretch:ultra-expanded;
+    color: #eaeaea;
+}
+header{
+    text-align: center;
+    color: #229bd7;
+}
+.name{
+    font-size: 36pt;
+    margin: 0px;
+}
+.job{
+    padding: -80px;
+    margin: 2px;
+}
+.profile{
+    margin: 8px;
+}
+.top{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    padding: 0px;
+    margin: 8px;
+    text-align: center;
+}
+nav a{
+    font-family: 'Inter';
+    text-decoration: none;
+    color: #229bd7;
+    padding: 18px;
+}
+.summary h1{
+    margin: 0px;
+
+}
+.exp{
+    margin-top: -5px;  
+    color: #eaeaea; 
+}
+h3{
+    margin: 0px 0px 3px 8px;
+} 
+h4{
+    margin: 0px 0px 3px 8px;
+}
+h5{
+    margin: 0px 0px 3px 8px;
+}
+.education{
+    margin: 0px 0px 3px 8px;
+    color:#eaeaea
+}
+.education h2{
+    margin: 0px 0px 5px 0px;
+
+}
+ul{
+    color: #fff;
+}
+.skills{
+    margin: 15px 0px 3px 8px;
+    color: #eaeaea;
+}
+.skills h2{
+    margin: 0px 0px 5px 0px;
+}
+p{
+    margin-right: 15%;
+    margin-left: 8px;
+    text-align: left;
+    color: #fff;
+}
+html{
+    margin-left: 18%;
+    margin-right: 18%;
+    background-color: #1b1d1f;
+    font-family: 'Inter'
+}
+footer{
+    color: #eaeaea;
+}
+footer a{
+    color: #eaeaea;
+}
+.contact-body{ 
+    color: #eaeaea;
+    font-weight: 300;
+}
+.contact-body a{
+    color: #eaeaea;
+    font-weight: 600;
+}
